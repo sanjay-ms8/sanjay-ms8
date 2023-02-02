@@ -18,7 +18,7 @@
 </h1 align = "center">
 
 - I am Sanjay
-- Master's student at Department of Mathematics, IISER Thiruvannathapuram
+- Master's student at School of Mathematics, IISER Thiruvannathapuram
 - Currently working on Deep Convolutional Framelets
 - Photography and sports are my other areas of interest.
 ---
